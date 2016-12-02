@@ -11,7 +11,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import com.ashokvarma.bottomnavigation.BottomNavigationBar;
 import com.ashokvarma.bottomnavigation.BottomNavigationItem;
-import com.jaeger.library.StatusBarUtil;
 import com.jaeger.statusbardemo.R;
 import java.util.ArrayList;
 import java.util.Random;

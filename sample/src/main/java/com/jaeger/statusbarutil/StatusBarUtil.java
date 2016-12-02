@@ -1,4 +1,4 @@
-package com.jaeger.library;
+package com.jaeger.statusbarutil;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
