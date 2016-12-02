@@ -7,7 +7,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.SeekBar;
 import android.widget.TextView;
-import com.jaeger.library.StatusBarUtil;
 import com.jaeger.statusbardemo.R;
 import com.r0adkll.slidr.Slidr;
 

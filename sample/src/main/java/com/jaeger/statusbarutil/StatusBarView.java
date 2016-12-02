@@ -1,4 +1,4 @@
-package com.jaeger.library;
+package com.jaeger.statusbarutil;
 
 import android.content.Context;
 import android.util.AttributeSet;

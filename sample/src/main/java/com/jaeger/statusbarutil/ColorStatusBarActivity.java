@@ -7,7 +7,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.SeekBar;
 import android.widget.TextView;
-import com.jaeger.library.StatusBarUtil;
 import com.jaeger.statusbardemo.R;
 import java.util.Random;
 
