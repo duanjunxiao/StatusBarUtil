@@ -6,15 +6,17 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.SeekBar;
 import android.widget.TextView;
+
 import com.jaeger.statusbardemo.R;
 
 /**
  * Created by Jaeger on 16/2/14.
- *
+ * <p>
  * Email: chjie.jaeger@gmail.com
  * GitHub: https://github.com/laobie
  */
 public class ImageStatusBarActivity extends BaseActivity {
+
     public static final String EXTRA_IS_TRANSPARENT = "is_transparent";
     private TextView mTvStatusAlpha;
     private RelativeLayout mRootLayout;
