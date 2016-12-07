@@ -88,6 +88,5 @@ public class ImageStatusBarActivity extends BaseActivity {
             }
         });
         mSbChangeAlpha.setProgress(StatusBarUtil.DEFAULT_STATUS_BAR_ALPHA);
-
-
+    }
 }
